@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EE6A47DD-0E35-40FF-8C95-03D9FCF66721}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{EE6A47DD-0E35-40FF-8C95-03D9FCF66721}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Soundbank" ID="{238FA440-796D-4DBA-85CA-600D213DAD0B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="GrassFootsteps-04" ID="{EF1BAFA2-9DAE-4001-AFFA-A7CFF2147AB0}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GrassFootsteps" ID="{57509881-D9A8-4010-AEBA-24B395909434}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ChestOpen" ID="{CA8CA5F2-502E-401D-8D76-AEDDC4D49544}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="PickupCollected" ID="{0B74FA6D-CDD5-415B-B607-A3757320BD32}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SandFootsteps-02" ID="{8D52021E-F1AD-4185-BB13-C86DFFC8AC26}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Door2Unlock" ID="{05D2D1E2-2411-41D0-8B96-0F28BCAC41F6}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="BarsOpen" ID="{CD6B6BC4-DD19-4286-9310-30BAB762E62F}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Waterfall" ID="{C2590642-76A3-42C2-8D06-9C6CE5A0C312}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Door1UnlockSound" ID="{BF90BA5C-B900-430F-B23C-495343C6BA25}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Footsteps" ID="{8BF39D7D-C513-432B-A407-60324715D3FA}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Grunt" ID="{C91D88AA-9018-4363-B3E0-99D1006B30C6}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Door1Unlock" ID="{E99141B6-4854-43DD-B2E5-2910AC633E12}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Door3Unlock" ID="{A5470020-A540-447C-962E-A294F1A44097}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="HardSurfaceFootsteps-01" ID="{0AA48569-2B37-44A6-AC19-AAA8E276A08A}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="HardSurfaceFootSteps" ID="{DC2EDB98-C3FC-4501-A8A1-7859E5A15C6D}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="HardSurfaceFootsteps-03" ID="{1B03A98A-0433-4565-B7E5-641869DA0C23}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ButtonPress" ID="{E220ABD8-A636-45C1-B196-56F4B10B82E5}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Bell" ID="{E54485C7-5680-45C9-BC5C-8628ABA8C3D0}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SandFootsteps-01" ID="{45CD7004-5837-45FD-897A-C4428729BA8D}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="BackgroundMusic" ID="{6384520E-F3EC-4691-BF65-7577323188DF}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ObjectDrop" ID="{F5353DFD-D1D8-4717-A7C6-D4C8D41CB3D9}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GrassFootsteps-03" ID="{A97ED8AA-DC1C-472F-9FFE-66A6351A638C}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="HouseDoorOpen" ID="{D9C4627E-BBC1-47CB-BC3D-77CA934707BE}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ButtonPress" ID="{9FFD5BCF-9778-47D7-982A-6041A23B3BBF}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="HarpoonShot" ID="{9D06948A-11F1-487B-9B66-F257733EF672}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ItemCollectedSound" ID="{8EE67793-5244-48E5-A2BB-C51C899BA52D}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ObjectDrop" ID="{D928C904-2E93-494D-8C33-59891F5DECE2}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Fireplace" ID="{A9C0B20D-50A0-4973-9D4F-A0697E9EC758}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ChestLock" ID="{D917BB8A-C71E-49AA-8513-6E7A0B552287}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Footsteps" ID="{CFDBB16F-C7DA-49B4-979B-3466BE133DA6}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="HarpoonShot" ID="{F301D2DC-F8FC-49DE-A36D-FD5EA268F1A2}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GruntSound" ID="{299860B1-666E-4A78-8632-D2A6277BB0AF}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="HardSurfaceFootsteps-02" ID="{C7D16C2A-EE65-4ADF-9E4D-5CD78A5666FA}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GrassFootsteps-01" ID="{2A285D41-255C-4B80-ABAD-60E2D5FDE7FA}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="JumpLand" ID="{ABA30B5A-8EEF-4C30-A053-A4FB0FE0E6FD}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ChestOpen" ID="{39F5C9C6-C4A9-4C31-81CD-6122BF963E8E}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SandFootsteps" ID="{B7E202D6-FEDA-4CB5-922B-2BAB0A6C41FF}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Jump" ID="{6DEED21D-1682-4CEF-83EE-8BBD53B5633B}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Door3Unlock" ID="{5904DAB9-ECF6-4DDC-88AE-4377446AB1E2}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="CoinCollection" ID="{7C2E7B14-D5E4-4DDF-A2D3-9F0358AB8ADE}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="CoinCollect" ID="{A68388D2-9750-4E4D-B264-A60FD36AD359}" WorkUnitID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Door2LockSound" ID="{91577E18-23C2-4E67-BA2F-4970ED7B13D8}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="SandFootsteps-03" ID="{0C4E4447-59F0-4EFE-BB75-F50DB004539C}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GrassFootsteps-02" ID="{22F3603D-F88E-4F41-B7D9-4D8818E3A541}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Door2UnlockSound" ID="{CB8F45C4-6D3C-4FDF-ADAF-5890B113B778}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="BarsOpen" ID="{AA3056A6-4FF0-4FE8-95A1-BB650CEFC78B}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Door1LockSound" ID="{A992CA22-1825-4FF4-80D3-C385D46354EA}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

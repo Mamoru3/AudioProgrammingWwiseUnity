@@ -1,0 +1,62 @@
+Event	ID	Name			Wwise Object Path	Notes
+	29191587	ObjectDrop			\Default Work Unit\ObjectDrop	
+	317641954	ButtonPress			\Default Work Unit\ButtonPress	
+	626769978	BackgroundMusic			\Default Work Unit\BackgroundMusic	
+	728871448	Door3Unlock			\Default Work Unit\Door3Unlock	
+	787725374	PickupCollected			\Default Work Unit\PickupCollected	
+	815433836	CoinCollect			\Default Work Unit\CoinCollect	
+	1240512178	Bell			\Default Work Unit\Bell	
+	1404152342	Fireplace			\Default Work Unit\Fireplace	
+	1548130050	JumpLand			\Default Work Unit\JumpLand	
+	2074477625	Waterfall			\Default Work Unit\Waterfall	
+	2250817457	ChestLock			\Default Work Unit\ChestLock	
+	2329734039	BarsOpen			\Default Work Unit\BarsOpen	
+	2385628198	Footsteps			\Default Work Unit\Footsteps	
+	2892697348	ChestOpen			\Default Work Unit\ChestOpen	
+	2971435821	Door2Unlock			\Default Work Unit\Door2Unlock	
+	3708219715	HouseDoorOpen			\Default Work Unit\HouseDoorOpen	
+	3797621065	Grunt			\Default Work Unit\Grunt	
+	3833651337	Jump			\Default Work Unit\Jump	
+	3880051586	HarpoonShot			\Default Work Unit\HarpoonShot	
+	4011786762	Door1Unlock			\Default Work Unit\Door1Unlock	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1834394558	Surface			\Default Work Unit\Surface	
+
+Switch	ID	Name	Switch Group			Notes
+	803837735	Sand	Surface			
+	3826567475	HardSurface	Surface			
+	4248645337	Grass	Surface			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3631936	GrassFootsteps-01	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\GrassFootsteps-01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\GrassFootsteps\GrassFootsteps-01		88598
+	84486147	SandFootsteps-03	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\SandFootsteps-03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\SandFootsteps\SandFootsteps-03		71098
+	129618327	Fireplace	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\Fireplace_8ECAC10A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Fireplace		1524566
+	145619405	Waterfall	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\Waterfall_21214E28.wem		\Actor-Mixer Hierarchy\Default Work Unit\Waterfall		877730
+	171105076	HardSurfaceFootsteps-03	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\HardSurfaceFootsteps-04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\HardSurfaceFootSteps\HardSurfaceFootsteps-03		33102
+	223973585	Bell	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\Bell_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Bell		783420
+	248487288	Door1LockSound	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\Door1LockSound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door1LockSound		192740
+	293075463	GrassFootsteps-03	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\GrassFootsteps-03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\GrassFootsteps\GrassFootsteps-03		121542
+	312755859	SandFootsteps-02	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\SandFootsteps-02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\SandFootsteps\SandFootsteps-02		58744
+	344301300	Door2LockSound	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\Door2LockSound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door2LockSound		123376
+	348830393	JumpLand	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\JumpLandSound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\JumpLand		16496
+	358664778	Door1UnlockSound	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\Door1UnlockSound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door1UnlockSound		128234
+	361322321	Door3Unlock	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\MechanicalDoorSound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door3Unlock		255808
+	361848001	BarsOpen	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\BarsOpen_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\BarsOpen		111588
+	367634142	CoinCollection	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\CoinCollection_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\CoinCollection		26334
+	476419782	ChestOpen	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\ChestOpen_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ChestOpen		99188
+	504420351	Jump	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\JumpSound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump		53056
+	530658131	SandFootsteps-01	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\SandFootsteps-01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\SandFootsteps\SandFootsteps-01		66978
+	636687426	ItemCollectedSound	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\ItemCollectedSound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ItemCollectedSound		149408
+	662417826	GruntSound	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\GruntSound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\GruntSound		20872
+	732692111	BackgroundMusic	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\BackgroundMusic_4811579D.wem		\Actor-Mixer Hierarchy\Default Work Unit\BackgroundMusic		2382976
+	747518399	ObjectDrop	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\ObjectDrop_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ObjectDrop		129088
+	800527624	GrassFootsteps-02	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\GrassFootsteps-02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\GrassFootsteps\GrassFootsteps-02		76244
+	811260444	ButtonPress	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\ButtonPress_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ButtonPress		43840
+	830949229	HardSurfaceFootsteps-02	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\HardSurfaceFootsteps-02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\HardSurfaceFootSteps\HardSurfaceFootsteps-02		22776
+	883558249	GrassFootsteps-04	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\GrassFootsteps-04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\GrassFootsteps\GrassFootsteps-04		76244
+	940108108	HarpoonShot	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\HarpoonShot_AF6E1F41.wem		\Actor-Mixer Hierarchy\Default Work Unit\HarpoonShot		87548
+	995386211	HardSurfaceFootsteps-01	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\HardSurfaceFootsteps-01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\HardSurfaceFootSteps\HardSurfaceFootsteps-01		37230
+	1004876148	HouseDoorOpen	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\HouseDoorOpen_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\HouseDoorOpen		133864
+	1011611590	Door2UnlockSound	C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\SFX\Door2UnlockSound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door2UnlockSound		100256
+

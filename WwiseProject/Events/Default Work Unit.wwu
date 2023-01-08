@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{D0EF012E-EBE8-49A7-A30A-341998D08917}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Footsteps" ID="{8BF39D7D-C513-432B-A407-60324715D3FA}">
+					<ChildrenList>
+						<Action Name="" ID="{C5F024BE-8C41-4530-AD73-B71FA13FD6FA}" ShortID="339999202">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{CFDBB16F-C7DA-49B4-979B-3466BE133DA6}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PickupCollected" ID="{0B74FA6D-CDD5-415B-B607-A3757320BD32}">
+					<ChildrenList>
+						<Action Name="" ID="{864C08FD-E733-4A09-AC64-0389137B3BD3}" ShortID="655731668">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ItemCollectedSound" ID="{8EE67793-5244-48E5-A2BB-C51C899BA52D}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Door1Unlock" ID="{E99141B6-4854-43DD-B2E5-2910AC633E12}">
+					<ChildrenList>
+						<Action Name="" ID="{48CF6EFE-2C8C-406F-91BB-42BA4BC92CA9}" ShortID="29416780">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door1UnlockSound" ID="{BF90BA5C-B900-430F-B23C-495343C6BA25}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Door2Unlock" ID="{05D2D1E2-2411-41D0-8B96-0F28BCAC41F6}">
+					<ChildrenList>
+						<Action Name="" ID="{E34C57A8-B70C-4DD4-8739-827C98026164}" ShortID="382559206">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door2UnlockSound" ID="{CB8F45C4-6D3C-4FDF-ADAF-5890B113B778}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Door3Unlock" ID="{5904DAB9-ECF6-4DDC-88AE-4377446AB1E2}">
+					<ChildrenList>
+						<Action Name="" ID="{9CC6069B-287D-44F0-94D0-0248B2C949DA}" ShortID="158820">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door3Unlock" ID="{A5470020-A540-447C-962E-A294F1A44097}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Grunt" ID="{C91D88AA-9018-4363-B3E0-99D1006B30C6}">
+					<ChildrenList>
+						<Action Name="" ID="{532A7C2D-CE0B-4B62-BE6D-3B207BC3B82E}" ShortID="948109381">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="GruntSound" ID="{299860B1-666E-4A78-8632-D2A6277BB0AF}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ButtonPress" ID="{9FFD5BCF-9778-47D7-982A-6041A23B3BBF}">
+					<ChildrenList>
+						<Action Name="" ID="{B831D8CE-0CB1-434B-B4E7-33634EFCDF5B}" ShortID="571372520">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ButtonPress" ID="{E220ABD8-A636-45C1-B196-56F4B10B82E5}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ObjectDrop" ID="{F5353DFD-D1D8-4717-A7C6-D4C8D41CB3D9}">
+					<ChildrenList>
+						<Action Name="" ID="{759130C2-1302-4C69-BF53-BBC5D603896E}" ShortID="877211779">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ObjectDrop" ID="{D928C904-2E93-494D-8C33-59891F5DECE2}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ChestLock" ID="{D917BB8A-C71E-49AA-8513-6E7A0B552287}">
+					<ChildrenList>
+						<Action Name="" ID="{FEAA507F-D8F1-4498-B1E6-E93EA62719CB}" ShortID="675961037">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door2LockSound" ID="{91577E18-23C2-4E67-BA2F-4970ED7B13D8}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="CoinCollect" ID="{A68388D2-9750-4E4D-B264-A60FD36AD359}">
+					<ChildrenList>
+						<Action Name="" ID="{7171FC20-0DD3-4EAA-B1AF-49F88D8D7F04}" ShortID="159591467">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="CoinCollection" ID="{7C2E7B14-D5E4-4DDF-A2D3-9F0358AB8ADE}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="ChestOpen" ID="{CA8CA5F2-502E-401D-8D76-AEDDC4D49544}">
+					<ChildrenList>
+						<Action Name="" ID="{525BBCC0-B6EA-48BC-8B82-5CF0CC37632A}" ShortID="79121146">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ChestOpen" ID="{39F5C9C6-C4A9-4C31-81CD-6122BF963E8E}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="HarpoonShot" ID="{9D06948A-11F1-487B-9B66-F257733EF672}">
+					<ChildrenList>
+						<Action Name="" ID="{45666E63-9C07-495D-A6DE-CABD4B97DCB3}" ShortID="487389903">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="HarpoonShot" ID="{F301D2DC-F8FC-49DE-A36D-FD5EA268F1A2}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BarsOpen" ID="{CD6B6BC4-DD19-4286-9310-30BAB762E62F}">
+					<ChildrenList>
+						<Action Name="" ID="{C4211AB0-76AB-481B-B6FA-78F10986DAA2}" ShortID="102185777">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BarsOpen" ID="{AA3056A6-4FF0-4FE8-95A1-BB650CEFC78B}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="HouseDoorOpen" ID="{FEE8863A-FB52-45A6-8443-8787E17F9CF4}">
+					<ChildrenList>
+						<Action Name="" ID="{E6B906B6-85D4-414C-A535-2F76698B245A}" ShortID="425995183">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="HouseDoorOpen" ID="{D9C4627E-BBC1-47CB-BC3D-77CA934707BE}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Jump" ID="{A3BECBB8-0800-4EA6-9A31-AF4B55AA2A71}">
+					<ChildrenList>
+						<Action Name="" ID="{17086036-503C-43AC-9ED5-9C0464796A32}" ShortID="774520304">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Jump" ID="{6DEED21D-1682-4CEF-83EE-8BBD53B5633B}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="JumpLand" ID="{5AEC9AA5-C760-4ED3-A22F-796865A5400F}">
+					<ChildrenList>
+						<Action Name="" ID="{7A22D49D-0FD8-4EBA-B823-661FAEFC2966}" ShortID="402146353">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="JumpLand" ID="{ABA30B5A-8EEF-4C30-A053-A4FB0FE0E6FD}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fireplace" ID="{365D989E-926C-485F-8857-109FE1F48DFE}">
+					<ChildrenList>
+						<Action Name="" ID="{D5C22C32-0193-451C-8469-CFCD0331D449}" ShortID="892892151">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Fireplace" ID="{A9C0B20D-50A0-4973-9D4F-A0697E9EC758}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Waterfall" ID="{9CF62BF5-C228-40FD-A531-D8B2B6FF70BB}">
+					<ChildrenList>
+						<Action Name="" ID="{C88AE9CB-C9D9-4819-8C58-943612436FD0}" ShortID="994246639">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Waterfall" ID="{C2590642-76A3-42C2-8D06-9C6CE5A0C312}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Bell" ID="{E98B141B-F9BE-4AA4-869B-480750C96277}">
+					<ChildrenList>
+						<Action Name="" ID="{8E012AF4-A119-4C18-B1F2-6DE604A59670}" ShortID="758758287">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Bell" ID="{E54485C7-5680-45C9-BC5C-8628ABA8C3D0}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BackgroundMusic" ID="{8C76F314-1B96-4C73-A1F7-94DB0A2698BC}">
+					<ChildrenList>
+						<Action Name="" ID="{769C7660-24F7-4457-8971-950796D9F914}" ShortID="609881150">
+							<PropertyList>
+								<Property Name="FadeTime" Type="Real64" Value="5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="BackgroundMusic" ID="{6384520E-F3EC-4691-BF65-7577323188DF}" WorkUnitID="{F80D2039-0E90-44BC-AC98-393629423B7C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

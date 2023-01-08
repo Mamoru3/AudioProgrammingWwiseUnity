@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\University Work\CMP407\CMP407Coursework\Week-3-Wwise-Audio-Project\Lecture 3 - Wwise Audio_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1661994096" Language="SFX" Hash="1476050716">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank</ObjectPath>
+			<ShortName>Soundbank</ShortName>
+			<Path>Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="626769978" Name="BackgroundMusic" ObjectPath="\Events\Default Work Unit\BackgroundMusic" DurationType="Infinite"/>
+				<Event Id="2329734039" Name="BarsOpen" ObjectPath="\Events\Default Work Unit\BarsOpen" DurationType="OneShot" DurationMin="1.161708" DurationMax="1.161708">
+					<IncludedMemoryFiles>
+						<File Id="361848001" Language="SFX">
+							<ShortName>BarsOpen.wav</ShortName>
+							<Path>SFX\BarsOpen_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1240512178" Name="Bell" ObjectPath="\Events\Default Work Unit\Bell" MaxAttenuation="50." DurationType="OneShot" DurationMin="4.440794" DurationMax="4.440794"/>
+				<Event Id="317641954" Name="ButtonPress" ObjectPath="\Events\Default Work Unit\ButtonPress" DurationType="OneShot" DurationMin="0.456" DurationMax="0.456">
+					<IncludedMemoryFiles>
+						<File Id="811260444" Language="SFX">
+							<ShortName>ButtonPress.wav</ShortName>
+							<Path>SFX\ButtonPress_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2250817457" Name="ChestLock" ObjectPath="\Events\Default Work Unit\ChestLock" DurationType="OneShot" DurationMin="1.398095" DurationMax="1.398095">
+					<IncludedMemoryFiles>
+						<File Id="344301300" Language="SFX">
+							<ShortName>Door2LockSound.wav</ShortName>
+							<Path>SFX\Door2LockSound_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2892697348" Name="ChestOpen" ObjectPath="\Events\Default Work Unit\ChestOpen" DurationType="OneShot" DurationMin="1.032542" DurationMax="1.032542">
+					<IncludedMemoryFiles>
+						<File Id="476419782" Language="SFX">
+							<ShortName>ChestOpen.wav</ShortName>
+							<Path>SFX\ChestOpen_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="815433836" Name="CoinCollect" ObjectPath="\Events\Default Work Unit\CoinCollect" DurationType="OneShot" DurationMin="0.297846" DurationMax="0.297846">
+					<IncludedMemoryFiles>
+						<File Id="367634142" Language="SFX">
+							<ShortName>CoinCollection.wav</ShortName>
+							<Path>SFX\CoinCollection_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4011786762" Name="Door1Unlock" ObjectPath="\Events\Default Work Unit\Door1Unlock" DurationType="OneShot" DurationMin="1.453175" DurationMax="1.453175">
+					<IncludedMemoryFiles>
+						<File Id="358664778" Language="SFX">
+							<ShortName>Door1UnlockSound.wav</ShortName>
+							<Path>SFX\Door1UnlockSound_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2971435821" Name="Door2Unlock" ObjectPath="\Events\Default Work Unit\Door2Unlock" DurationType="OneShot" DurationMin="1.135964" DurationMax="1.135964">
+					<IncludedMemoryFiles>
+						<File Id="1011611590" Language="SFX">
+							<ShortName>Door2UnlockSound.wav</ShortName>
+							<Path>SFX\Door2UnlockSound_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="728871448" Name="Door3Unlock" ObjectPath="\Events\Default Work Unit\Door3Unlock" MaxAttenuation="20." DurationType="OneShot" DurationMin="2.664" DurationMax="2.664">
+					<IncludedMemoryFiles>
+						<File Id="361322321" Language="SFX">
+							<ShortName>MechanicalDoorSound.wav</ShortName>
+							<Path>SFX\MechanicalDoorSound_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1404152342" Name="Fireplace" ObjectPath="\Events\Default Work Unit\Fireplace" MaxAttenuation="20." DurationType="Infinite"/>
+				<Event Id="2385628198" Name="Footsteps" ObjectPath="\Events\Default Work Unit\Footsteps" DurationType="OneShot" DurationMin="0.216536" DurationMax="1.637897">
+					<IncludedMemoryFiles>
+						<File Id="3631936" Language="SFX">
+							<ShortName>GrassFootsteps-01.wav</ShortName>
+							<Path>SFX\GrassFootsteps-01_10C4C929.wem</Path>
+						</File>
+						<File Id="84486147" Language="SFX">
+							<ShortName>SandFootsteps-03.wav</ShortName>
+							<Path>SFX\SandFootsteps-03_10C4C929.wem</Path>
+						</File>
+						<File Id="171105076" Language="SFX">
+							<ShortName>HardSurfaceFootsteps-04.wav</ShortName>
+							<Path>SFX\HardSurfaceFootsteps-04_10C4C929.wem</Path>
+						</File>
+						<File Id="293075463" Language="SFX">
+							<ShortName>GrassFootsteps-03.wav</ShortName>
+							<Path>SFX\GrassFootsteps-03_10C4C929.wem</Path>
+						</File>
+						<File Id="312755859" Language="SFX">
+							<ShortName>SandFootsteps-02.wav</ShortName>
+							<Path>SFX\SandFootsteps-02_10C4C929.wem</Path>
+						</File>
+						<File Id="530658131" Language="SFX">
+							<ShortName>SandFootsteps-01.wav</ShortName>
+							<Path>SFX\SandFootsteps-01_10C4C929.wem</Path>
+						</File>
+						<File Id="800527624" Language="SFX">
+							<ShortName>GrassFootsteps-02.wav</ShortName>
+							<Path>SFX\GrassFootsteps-02_10C4C929.wem</Path>
+						</File>
+						<File Id="830949229" Language="SFX">
+							<ShortName>HardSurfaceFootsteps-02.wav</ShortName>
+							<Path>SFX\HardSurfaceFootsteps-02_10C4C929.wem</Path>
+						</File>
+						<File Id="883558249" Language="SFX">
+							<ShortName>GrassFootsteps-04.wav</ShortName>
+							<Path>SFX\GrassFootsteps-04_10C4C929.wem</Path>
+						</File>
+						<File Id="995386211" Language="SFX">
+							<ShortName>HardSurfaceFootsteps-01.wav</ShortName>
+							<Path>SFX\HardSurfaceFootsteps-01_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{DDFAA599-9213-4409-8C1E-E0E69CEB2F1F}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{76C68704-415C-4EAC-B94E-3223A114D927}">
+							<Media>
+								<File Id="84486147"/>
+								<File Id="312755859"/>
+								<File Id="530658131"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{DDFAA599-9213-4409-8C1E-E0E69CEB2F1F}">
+							<Media>
+								<File Id="171105076"/>
+								<File Id="830949229"/>
+								<File Id="995386211"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{7BFA829D-9853-4304-AA2F-7A9269398379}">
+							<Media>
+								<File Id="3631936"/>
+								<File Id="293075463"/>
+								<File Id="800527624"/>
+								<File Id="883558249"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3797621065" Name="Grunt" ObjectPath="\Events\Default Work Unit\Grunt" DurationType="OneShot" DurationMin="0.182264" DurationMax="0.257761">
+					<IncludedMemoryFiles>
+						<File Id="662417826" Language="SFX">
+							<ShortName>GruntSound.wav</ShortName>
+							<Path>SFX\GruntSound_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3880051586" Name="HarpoonShot" ObjectPath="\Events\Default Work Unit\HarpoonShot" DurationType="OneShot" DurationMin="0.287039" DurationMax="0.287039">
+					<IncludedMemoryFiles>
+						<File Id="940108108" Language="SFX">
+							<ShortName>HarpoonShot.wav</ShortName>
+							<Path>SFX\HarpoonShot_AF6E1F41.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3708219715" Name="HouseDoorOpen" ObjectPath="\Events\Default Work Unit\HouseDoorOpen" DurationType="OneShot" DurationMin="1.564431" DurationMax="1.564431"/>
+				<Event Id="3833651337" Name="Jump" ObjectPath="\Events\Default Work Unit\Jump" DurationType="OneShot" DurationMin="0.656442" DurationMax="0.656442"/>
+				<Event Id="1548130050" Name="JumpLand" ObjectPath="\Events\Default Work Unit\JumpLand" DurationType="OneShot" DurationMin="0.221554" DurationMax="0.221554"/>
+				<Event Id="29191587" Name="ObjectDrop" ObjectPath="\Events\Default Work Unit\ObjectDrop" DurationType="OneShot" DurationMin="1.197368" DurationMax="1.508589">
+					<IncludedMemoryFiles>
+						<File Id="747518399" Language="SFX">
+							<ShortName>ObjectDrop.wav</ShortName>
+							<Path>SFX\ObjectDrop_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="787725374" Name="PickupCollected" ObjectPath="\Events\Default Work Unit\PickupCollected" DurationType="OneShot" DurationMin="1.693243" DurationMax="1.693243">
+					<IncludedMemoryFiles>
+						<File Id="636687426" Language="SFX">
+							<ShortName>ItemCollectedSound.wav</ShortName>
+							<Path>SFX\ItemCollectedSound_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2074477625" Name="Waterfall" ObjectPath="\Events\Default Work Unit\Waterfall" MaxAttenuation="200." DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="3631936" Language="SFX">
+					<ShortName>GrassFootsteps-01.wav</ShortName>
+					<Path>SFX\GrassFootsteps-01_10C4C929.wem</Path>
+				</File>
+				<File Id="84486147" Language="SFX">
+					<ShortName>SandFootsteps-03.wav</ShortName>
+					<Path>SFX\SandFootsteps-03_10C4C929.wem</Path>
+				</File>
+				<File Id="129618327" Language="SFX">
+					<ShortName>Fireplace.wav</ShortName>
+					<Path>SFX\Fireplace_8ECAC10A.wem</Path>
+				</File>
+				<File Id="145619405" Language="SFX">
+					<ShortName>Waterfall.wav</ShortName>
+					<Path>SFX\Waterfall_21214E28.wem</Path>
+				</File>
+				<File Id="171105076" Language="SFX">
+					<ShortName>HardSurfaceFootsteps-04.wav</ShortName>
+					<Path>SFX\HardSurfaceFootsteps-04_10C4C929.wem</Path>
+				</File>
+				<File Id="223973585" Language="SFX">
+					<ShortName>Bell.wav</ShortName>
+					<Path>SFX\Bell_10C4C929.wem</Path>
+				</File>
+				<File Id="248487288" Language="SFX">
+					<ShortName>Door1LockSound.wav</ShortName>
+					<Path>SFX\Door1LockSound_10C4C929.wem</Path>
+				</File>
+				<File Id="293075463" Language="SFX">
+					<ShortName>GrassFootsteps-03.wav</ShortName>
+					<Path>SFX\GrassFootsteps-03_10C4C929.wem</Path>
+				</File>
+				<File Id="312755859" Language="SFX">
+					<ShortName>SandFootsteps-02.wav</ShortName>
+					<Path>SFX\SandFootsteps-02_10C4C929.wem</Path>
+				</File>
+				<File Id="344301300" Language="SFX">
+					<ShortName>Door2LockSound.wav</ShortName>
+					<Path>SFX\Door2LockSound_10C4C929.wem</Path>
+				</File>
+				<File Id="348830393" Language="SFX">
+					<ShortName>JumpLandSound.wav</ShortName>
+					<Path>SFX\JumpLandSound_10C4C929.wem</Path>
+				</File>
+				<File Id="358664778" Language="SFX">
+					<ShortName>Door1UnlockSound.wav</ShortName>
+					<Path>SFX\Door1UnlockSound_10C4C929.wem</Path>
+				</File>
+				<File Id="361322321" Language="SFX">
+					<ShortName>MechanicalDoorSound.wav</ShortName>
+					<Path>SFX\MechanicalDoorSound_10C4C929.wem</Path>
+				</File>
+				<File Id="361848001" Language="SFX">
+					<ShortName>BarsOpen.wav</ShortName>
+					<Path>SFX\BarsOpen_10C4C929.wem</Path>
+				</File>
+				<File Id="367634142" Language="SFX">
+					<ShortName>CoinCollection.wav</ShortName>
+					<Path>SFX\CoinCollection_10C4C929.wem</Path>
+				</File>
+				<File Id="476419782" Language="SFX">
+					<ShortName>ChestOpen.wav</ShortName>
+					<Path>SFX\ChestOpen_10C4C929.wem</Path>
+				</File>
+				<File Id="504420351" Language="SFX">
+					<ShortName>JumpSound.wav</ShortName>
+					<Path>SFX\JumpSound_10C4C929.wem</Path>
+				</File>
+				<File Id="530658131" Language="SFX">
+					<ShortName>SandFootsteps-01.wav</ShortName>
+					<Path>SFX\SandFootsteps-01_10C4C929.wem</Path>
+				</File>
+				<File Id="636687426" Language="SFX">
+					<ShortName>ItemCollectedSound.wav</ShortName>
+					<Path>SFX\ItemCollectedSound_10C4C929.wem</Path>
+				</File>
+				<File Id="662417826" Language="SFX">
+					<ShortName>GruntSound.wav</ShortName>
+					<Path>SFX\GruntSound_10C4C929.wem</Path>
+				</File>
+				<File Id="732692111" Language="SFX">
+					<ShortName>BackgroundMusic.wav</ShortName>
+					<Path>SFX\BackgroundMusic_4811579D.wem</Path>
+				</File>
+				<File Id="747518399" Language="SFX">
+					<ShortName>ObjectDrop.wav</ShortName>
+					<Path>SFX\ObjectDrop_10C4C929.wem</Path>
+				</File>
+				<File Id="800527624" Language="SFX">
+					<ShortName>GrassFootsteps-02.wav</ShortName>
+					<Path>SFX\GrassFootsteps-02_10C4C929.wem</Path>
+				</File>
+				<File Id="811260444" Language="SFX">
+					<ShortName>ButtonPress.wav</ShortName>
+					<Path>SFX\ButtonPress_10C4C929.wem</Path>
+				</File>
+				<File Id="830949229" Language="SFX">
+					<ShortName>HardSurfaceFootsteps-02.wav</ShortName>
+					<Path>SFX\HardSurfaceFootsteps-02_10C4C929.wem</Path>
+				</File>
+				<File Id="883558249" Language="SFX">
+					<ShortName>GrassFootsteps-04.wav</ShortName>
+					<Path>SFX\GrassFootsteps-04_10C4C929.wem</Path>
+				</File>
+				<File Id="940108108" Language="SFX">
+					<ShortName>HarpoonShot.wav</ShortName>
+					<Path>SFX\HarpoonShot_AF6E1F41.wem</Path>
+				</File>
+				<File Id="995386211" Language="SFX">
+					<ShortName>HardSurfaceFootsteps-01.wav</ShortName>
+					<Path>SFX\HardSurfaceFootsteps-01_10C4C929.wem</Path>
+				</File>
+				<File Id="1004876148" Language="SFX">
+					<ShortName>HouseDoorOpen.wav</ShortName>
+					<Path>SFX\HouseDoorOpen_10C4C929.wem</Path>
+				</File>
+				<File Id="1011611590" Language="SFX">
+					<ShortName>Door2UnlockSound.wav</ShortName>
+					<Path>SFX\Door2UnlockSound_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+			<SwitchGroups>
+				<SwitchGroup Id="1834394558" Name="Surface" ObjectPath="\Switches\Default Work Unit\Surface" GUID="{7970FC20-ADD5-4D2D-8ABC-AAA058AC1FF8}">
+					<Switches>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Surface\Grass" GUID="{7BFA829D-9853-4304-AA2F-7A9269398379}"/>
+						<Switch Id="803837735" Name="Sand" ObjectPath="\Switches\Default Work Unit\Surface\Sand" GUID="{76C68704-415C-4EAC-B94E-3223A114D927}"/>
+						<Switch Id="3826567475" Name="HardSurface" ObjectPath="\Switches\Default Work Unit\Surface\HardSurface" GUID="{DDFAA599-9213-4409-8C1E-E0E69CEB2F1F}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
